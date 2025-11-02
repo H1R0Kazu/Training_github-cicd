@@ -7,5 +7,3 @@ func EvenOrOdd(number int) string {
 		return "odd"
 	}
 }
-
-// テストを動かすために、コメントを書き足す。
